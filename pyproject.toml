@@ -3,7 +3,7 @@ name = "autodoc_pydantic"
 version = "1.7.2"
 description = "Seamlessly integrate pydantic models in your Sphinx documentation."
 authors = ["mansenfranzen <franz.woellert@gmail.com>"]
-packages = [{ include = "sphinxcontrib" }]
+packages = [{ include = "sphinxcontrib.autodoc_pydantic" }]
 license = "MIT"
 readme = "README.md"
 homepage = "https://github.com/mansenfranzen/autodoc_pydantic"
